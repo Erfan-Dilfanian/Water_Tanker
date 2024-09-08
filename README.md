@@ -7,5 +7,5 @@ In the `/water_container` please find the stl files of the water container parts
 In the `/supports` you can find the stl files of supports use to mount the drone on the UAV
 
 
-**Copyright to NavLab Concorida**
+**All Copyrights to NavLab Concorida**
 
